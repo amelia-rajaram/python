@@ -1,7 +1,7 @@
 # Sustainable Fashion Survey Analysis
 
 ## Overview
-This project showcases my skills in Python for data cleaning, data manipulation, and data visualization. The dataset used in this project is related to a sustainable fashion survey.or this project, I specifically used two sheets from the dataset:
+This project showcases my skills in Python for data cleaning, data manipulation, and data visualization. The dataset used in this project is based on a sustainable fashion survey. I specifically used two sheets from the dataset:
 - survey_original data
 - survery_questions
 
