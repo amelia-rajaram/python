@@ -16,7 +16,7 @@ The original dataset used for this analysis is sourced from Kaggle. You can find
 - Jupyter Notebook
 
 ## Data Cleaning
-- Reading the data using 'pandas
+- Reading the data using pandas
 - Handling missing values
 - Cleaned data
 - Data analysis and visualization
